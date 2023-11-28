@@ -7,11 +7,10 @@ body {
 .logo {
   float: left;
   margin-right: 20px;
-  z-index: 1;
 }
 
 .logo img {
-  width: 100%;
+  max-width: 100px;
   height: auto;
 }
 
@@ -30,7 +29,7 @@ figure {
   text-align: center;
 }
 
-figure {
+figure img {
   background-color: whitesmoke;
 }
 
