@@ -17,7 +17,7 @@ h1 {
 
 /* Nos subtítulos: colocar uma borda na parte de baixo */
 h2 {
-  border-bottom: 1px solid #ccc;
+  border-bottom: 2px solid #ccc;
 }
 
 /* Nas figuras: centralizar o conteúdo */
