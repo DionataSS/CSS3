@@ -2,7 +2,7 @@
 
 /* Na página toda: trocar a família da fonte de toda a página */
 body {
-  font-family: 'Trebuchet MS', sans-serif;
+  font-family: 'Arial', sans-serif;
 }
 
 /* No título principal: alterar a cor da fonte para um cinza escuro "#3D3D3D" */
